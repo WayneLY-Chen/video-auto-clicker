@@ -74,3 +74,7 @@
 | `滑鼠連點器.pyw` | 主程式（只用 Python 內建模組） |
 | `build.bat` / `build.py` | 一鍵打包成 exe |
 | `icon.ico` | （選用）自訂圖示 |
+
+## 授權
+
+[MIT License](LICENSE)：可以自由使用、修改、散布，請保留原本的版權聲明。
