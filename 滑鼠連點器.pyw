@@ -1,3 +1,7 @@
+# Copyright (C) 2026 Wayne Chen
+# SPDX-License-Identifier: GPL-3.0-or-later
+# 本程式以 GNU GPL v3 授權，詳見 LICENSE 檔案。
+
 """
 影片播放/暫停 定時連點器
 

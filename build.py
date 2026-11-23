@@ -1,3 +1,7 @@
+# Copyright (C) 2026 Wayne Chen
+# SPDX-License-Identifier: GPL-3.0-or-later
+# 本程式以 GNU GPL v3 授權，詳見 LICENSE 檔案。
+
 """把 滑鼠連點器.pyw 打包成單一 exe。
 
 用法：直接點兩下 build.bat，或執行  py build.py
